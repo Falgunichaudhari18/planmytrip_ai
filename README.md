@@ -21,18 +21,15 @@ An AI-powered travel planner app built with Flutter that generates personalized 
 
 ## 📱 Screenshots
 
-<p align="center">
-  <img src="screenshots/Authentication.jpg" width="250"/>
-  <img src="screenshots/Home.jpg" width="250"/>
-  <img src="screenshots/Popup.jpg" width="250"/>
-</p>
+## 📱 Screenshots
 
-<p align="center">
-  <img src="screenshots/Result.jpg" width="250"/>
-  <img src="screenshots/Profile.jpg" width="250"/>
-  <img src="screenshots/Referance1.jpg" width="250"/>
-  <img src="screenshots/Referances.jpg" width="250"/>
-</p>
+![Auth](screenshots/Authentication.jpg)
+![Home](screenshots/Home.jpg)
+![Popup](screenshots/Popup.jpg)
+![Result](screenshots/Result.jpg)
+![Profile](screenshots/Profile.jpg)
+![Ref1](screenshots/Referance1.jpg)
+![Ref2](screenshots/Referances.jpg)
 
 ---
 
