@@ -17,19 +17,7 @@ An AI-powered travel planner app built with Flutter that generates personalized 
 * 👤 User authentication (Login/Signup)
 * 🎨 Modern UI with animations
 
----
 
-## 📱 Screenshots
-
-## 📱 Screenshots
-
-![Auth](screenshots/Authentication.jpg)
-![Home](screenshots/Home.jpg)
-![Popup](screenshots/Popup.jpg)
-![Result](screenshots/Result.jpg)
-![Profile](screenshots/Profile.jpg)
-![Ref1](screenshots/Referance1.jpg)
-![Ref2](screenshots/Referances.jpg)
 
 ---
 
